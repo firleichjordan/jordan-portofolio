@@ -1476,6 +1476,10 @@ body {
     width: 5/4;
   }
 
+  .lg\:w-4\/5 {
+    width: 80%;
+  }
+
   .lg\:max-w-full {
     max-width: 100%;
   }
