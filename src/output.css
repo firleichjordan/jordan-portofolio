@@ -1030,16 +1030,12 @@ video {
   padding-bottom: 3rem;
 }
 
-.pb-16 {
-  padding-bottom: 4rem;
+.pb-24 {
+  padding-bottom: 6rem;
 }
 
 .pb-32 {
   padding-bottom: 8rem;
-}
-
-.pb-36 {
-  padding-bottom: 9rem;
 }
 
 .pl-8 {
@@ -1048,10 +1044,6 @@ video {
 
 .pt-10 {
   padding-top: 2.5rem;
-}
-
-.pt-20 {
-  padding-top: 5rem;
 }
 
 .pt-24 {
@@ -1064,18 +1056,6 @@ video {
 
 .pt-36 {
   padding-top: 9rem;
-}
-
-.pt-16 {
-  padding-top: 4rem;
-}
-
-.pb-24 {
-  padding-bottom: 6rem;
-}
-
-.pt-12 {
-  padding-top: 3rem;
 }
 
 .text-center {
@@ -1486,11 +1466,6 @@ body {
   .lg\:text-2xl {
     font-size: 1.5rem;
     line-height: 2rem;
-  }
-
-  .lg\:text-3xl {
-    font-size: 1.875rem;
-    line-height: 2.25rem;
   }
 
   .lg\:text-5xl {
